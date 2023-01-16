@@ -21,3 +21,28 @@ header .top-header {
     padding-top: 500px;
 }
 
+
+/****** SECTION ESPLORA ******/
+.hidden {
+    visibility: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/****** MEDIA QUERY ******/
+@media screen and (min-width:767px) {
+    .hidden {
+        visibility: visible;
+    }
+}
