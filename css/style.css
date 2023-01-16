@@ -17,7 +17,7 @@ header .top-header {
 }
 
 #jumbo {
-    background-image: url(../img/jumbo-bg.png);
+    background-image: url(./../img/jumbo-bg.png);
     padding-top: 500px;
 }
 
@@ -28,11 +28,12 @@ header .top-header {
 }
 
 
-
-
-
-
-
+/****** JUMBO2 ******/ 
+#jumbo2
+{
+    background-image: url(./../img/it-takes-two-hero-banner-desktop.jpg);
+    
+}
 
 
 
