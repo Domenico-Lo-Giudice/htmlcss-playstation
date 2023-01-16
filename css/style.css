@@ -4,6 +4,11 @@ header .top-header {
     background-color: black;
 }
 
+.pic-sony {
+    height: auto;
+    width: 70px;
+}
+
 /****** JUMBO ******/
 .sfondo {
     background-position: center;
@@ -15,3 +20,4 @@ header .top-header {
     background-image: url(../img/jumbo-bg.png);
     padding-top: 500px;
 }
+
