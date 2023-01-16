@@ -3,3 +3,15 @@
 header .top-header {
     background-color: black;
 }
+
+/****** JUMBO ******/
+.sfondo {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    padding-top: 500px;
+}
