@@ -36,8 +36,14 @@ header .top-header {
 }
 
 
+/****** PS-PLUS ******/
+.plus {
+    height: 300px;
+}
 
-
+.plus img {
+    max-height: 100%;
+}
 
 
 
